@@ -86,6 +86,11 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+    - i'm not doing great
+    - i'm not doing so hot
+    - not so hot
+    - not great
+    - definitely not great
 
 - intent: bot_challenge
   examples: |
